@@ -1,0 +1,38 @@
+create table tb_admin(
+username nvarchar(20) NOT NULL PRIMARY KEY,
+pass nvarchar(50) NOT NULL)
+
+create table Lapangan(
+ID_Lapangan int NOT NULL PRIMARY KEY,
+Nama_Lapangan nvarchar(20),
+Tipe_Lapangan nvarchar(20),
+Jumlah_Bola int)
+
+create table Harga(
+ID_Harga int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+Jam int,
+Harga int)
+
+create table Mamber(
+ID_mamber int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+Nama nvarchar(50),
+Alamat nvarchar(100),
+No_HP nvarchar(20),
+No_Identitas nvarchar(30),
+Tgl_Daftar DateTime,
+Tgl_Habis DateTime)
+
+create table Pemesanan(
+ID_Pemesanan int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+Nama nvarchar(50),
+ID_Mamber int REFERENCES Mamber(ID_mamber),
+ID_Lapangan int NOT NULL REFERENCES Lapangan(ID_Lapangan),
+Jam_Mulai int NOT NULL,
+Jam_Selesai int NOT NULL,
+Tanggal_Pesan DateTime NOT NULL,
+Tanggal_Sewa DateTime NOT NULL,
+Tagihan int NOT NULL,
+DP int,
+No_HP nvarchar(20) NOT NULL,
+Tgl_Pelunasan DateTime,
+Status nvarchar(15))

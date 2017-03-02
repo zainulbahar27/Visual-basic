@@ -1,0 +1,188 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+try2-login
+</name>
+</assembly>
+<members>
+<member name="P:try2_login.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:try2_login.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:try2_login.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.DataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.HargaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.LapanganDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.MamberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.PemesananDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.tb_adminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.LaporanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.Query1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.DataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.HargaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.LapanganRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.MamberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.PemesananRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.tb_adminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.LaporanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.Query1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.logdbDataSet.DataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.logdbDataSet.HargaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.logdbDataSet.LapanganRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.logdbDataSet.MamberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.logdbDataSet.PemesananRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.logdbDataSet.tb_adminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.logdbDataSet.LaporanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.logdbDataSet.Query1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.logdbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.DataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.HargaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.LapanganTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.MamberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.PemesananTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.tb_adminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.LaporanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.Query1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:try2_login.logdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(try2_login.logdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:try2_login.logdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(try2_login.logdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:try2_login.logdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(try2_login.logdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:try2_login.logdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:try2_login.logdbDataSetTableAdapters.TableAdapterManager.UpdateAll(try2_login.logdbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:try2_login.logdbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,178 @@
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\bin\Debug\try2-login.exe
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\bin\Debug\try2-login.pdb
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\bin\Debug\try2-login.xml
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\obj\x86\Debug\try2_login.login.resources
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\obj\x86\Debug\try2_login.Resources.resources
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\obj\x86\Debug\try2_login.splash.resources
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\obj\x86\Debug\try2-login.exe
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\obj\x86\Debug\try2-login.xml
+C:\Users\Y-sin\AppData\Local\Temporary Projects\try2-login\obj\x86\Debug\try2-login.pdb
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\bin\Debug\try2-login.exe
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\bin\Debug\try2-login.pdb
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\bin\Debug\try2-login.xml
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+e:\documents\visual studio 2010\Projects\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\bin\Debug\try2-login.exe.config
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+F:\Other\Project\coba\try2-login\try2-login\bin\Debug\try2-login.exe.config
+F:\Other\Project\coba\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+F:\Other\Project\coba\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+F:\Other\Project\coba\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+F:\Other\Project\coba\try2-login\try2-login\bin\Debug\try2-login.exe
+F:\Other\Project\coba\try2-login\try2-login\bin\Debug\try2-login.pdb
+F:\Other\Project\coba\try2-login\try2-login\bin\Debug\try2-login.xml
+F:\Other\Project\coba\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+F:\Other\Project\coba\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+F:\Other\Project\coba\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+F:\Other\Project\coba\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+F:\Other\Project\coba\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+F:\Other\Project\coba\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+F:\Other\Project\coba\try2-login\try2-login\bin\Debug\logdb.mdb
+D:\share\coba\try2-login\try2-login\bin\Debug\try2-login.exe.config
+D:\share\coba\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+D:\share\coba\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+D:\share\coba\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+D:\share\coba\try2-login\try2-login\bin\Debug\try2-login.exe
+D:\share\coba\try2-login\try2-login\bin\Debug\try2-login.pdb
+D:\share\coba\try2-login\try2-login\bin\Debug\try2-login.xml
+D:\share\coba\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+D:\share\coba\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+D:\share\coba\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+D:\share\coba\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+D:\share\coba\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+D:\share\coba\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+D:\TI 4E\Skripsi TI\TesterAplikasi\try2-login\try2-login\bin\Debug\try2-login.exe.config
+D:\TI 4E\Skripsi TI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+D:\TI 4E\Skripsi TI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+D:\TI 4E\Skripsi TI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\bin\Debug\try2-login.exe.config
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\bin\Debug\try2-login.exe
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\bin\Debug\try2-login.pdb
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\bin\Debug\try2-login.xml
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+D:\TI4E\SkripsiTI\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\bin\Debug\try2-login.exe.config
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\bin\Debug\try2-login.exe
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\bin\Debug\try2-login.pdb
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\bin\Debug\try2-login.xml
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+C:\Users\wildan\Downloads\TesterAplikasi\try2-login\try2-login\obj\x86\Debug\try2-login.vbprojResolveAssemblyReference.cache
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe.config
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.pdb
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.xml
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\Antlr3.Runtime.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\MySql.Debugger.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\MySql.Debugger.VisualStudio.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\MySql.Parser.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Debug\MySql.Utility.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbprojResolveAssemblyReference.cache
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+D:\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe.config
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbprojResolveAssemblyReference.cache
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+D:\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+D:\RRI_SI\try2-login\try2-login\bin\Debug\RRIdb.sdf
+D:\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe
+D:\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.pdb
+D:\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.xml
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe.config
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\bin\Debug\RRIdb.sdf
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.pdb
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.xml
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbprojResolveAssemblyReference.cache
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+E:\Documents\RRI_SI\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe.config
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\bin\Debug\RRIdb.sdf
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.pdb
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.xml
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbprojResolveAssemblyReference.cache
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+C:\Users\Zhaycefung\Desktop\RRI_SIy\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe.config
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\bin\Debug\RRIdb.sdf
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.pdb
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.xml
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbprojResolveAssemblyReference.cache
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+E:\Documents\RRI_RRI_edit 6.6.7\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe.config
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.exe
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.xml
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.pdb
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\bin\Debug\RRIdb.sdf
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.exe
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.pdb
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\bin\Debug\try2-login.xml
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbprojResolveAssemblyReference.cache
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Form1.resources
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Grafik.resources
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.login.resources
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.Resources.resources
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.pass.resources
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2_login.splash.resources
+D:\RRI_SI- print\RRI_SI\try2-login\try2-login\obj\x86\Debug\try2-login.vbproj.GenerateResource.Cache

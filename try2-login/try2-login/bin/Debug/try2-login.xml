@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+try2-login
+</name>
+</assembly>
+<members>
+<member name="P:try2_login.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:try2_login.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:try2_login.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.DataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.HargaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.LapanganDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.MamberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.PemesananDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.tb_adminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.LaporanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.DataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.HargaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.LapanganRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.MamberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.PemesananRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.tb_adminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.LaporanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.DataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.HargaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.LapanganRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.MamberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.PemesananRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.tb_adminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet.LaporanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:try2_login.RRIdbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.DataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.HargaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.LapanganTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.MamberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.PemesananTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.tb_adminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.LaporanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:try2_login.RRIdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(try2_login.RRIdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:try2_login.RRIdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(try2_login.RRIdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:try2_login.RRIdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(try2_login.RRIdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:try2_login.RRIdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:try2_login.RRIdbDataSetTableAdapters.TableAdapterManager.UpdateAll(try2_login.RRIdbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:try2_login.RRIdbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

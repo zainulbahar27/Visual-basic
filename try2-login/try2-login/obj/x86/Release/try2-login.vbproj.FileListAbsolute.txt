@@ -1,0 +1,32 @@
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\bin\Release\try2-login.exe
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\bin\Release\try2-login.pdb
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\bin\Release\try2-login.xml
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Release\try2_login.login.resources
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Release\try2_login.Resources.resources
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Release\try2_login.splash.resources
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Release\try2-login.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Release\try2-login.exe
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Release\try2-login.xml
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Release\try2-login.pdb
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\bin\Release\try2-login.exe.config
+E:\Documents\Visual Studio 2010\Projects\try2-login\try2-login\obj\x86\Release\try2_login.reg.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\try2-login.exe.config
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\try2-login.exe
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\try2-login.pdb
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\try2-login.xml
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\Antlr3.Runtime.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\MySql.Debugger.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\MySql.Debugger.VisualStudio.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\MySql.Parser.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\bin\Release\MySql.Utility.dll
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2-login.vbprojResolveAssemblyReference.cache
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2_login.Form1.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2_login.login.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2_login.Resources.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2_login.pass.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2_login.splash.resources
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2-login.vbproj.GenerateResource.Cache
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2-login.exe
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2-login.xml
+C:\Users\wildan\Downloads\RRI_SI\try2-login\try2-login\obj\x86\Release\try2-login.pdb
